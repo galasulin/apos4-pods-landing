@@ -46,8 +46,13 @@
 <table>
   <tr>
     <td width="33%"><a href="docs/desktop-hero.png"><img src="docs/desktop-hero.png" width="100%" alt="ראש הדף בדסקטופ"></a><br><sub><b>ראש הדף</b> · נעל מרחפת, קריאה לפעולה ותגיות אמון</sub></td>
-    <td width="33%"><a href="docs/stage-apart.png"><img src="docs/stage-apart.png" width="100%" alt="הפודים מפורקים"></a><br><sub><b>הבמה · מפורק</b> · המסילות ומטריצת הכיול גלויות</sub></td>
+    <td width="33%"><a href="docs/stage-apart.png"><img src="docs/stage-apart.png" width="100%" alt="הפודים מפורקים"></a><br><sub><b>הבמה · מפורק</b> · שלב 03, הפודים מנותקים לגמרי, המסילות ומטריצת הכיול גלויות</sub></td>
     <td width="33%" align="center"><a href="docs/mobile-stage.png"><img src="docs/mobile-stage.png" width="220" alt="הבמה במובייל"></a><br><sub><b>מובייל</b> · הסוליה למעלה, טקסט השלב מתחת</sub></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="docs/stage-whole.png"><img src="docs/stage-whole.png" width="100%" alt="הפודים מחוברים"></a><br><sub><b>הבמה · מחובר</b> · שלב 01, ארבעת הפודים על הסוליה</sub></td>
+    <td width="33%"><a href="docs/calibration-picker.png"><img src="docs/calibration-picker.png" width="100%" alt="בורר הכיול"></a><br><sub><b>בורר הכיול</b> · שש תצורות אמיתיות, "ברך מדיאלית" נבחרה</sub></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
@@ -136,7 +141,7 @@ flowchart LR
 | פונטים | Frank Ruhl Libre במשקלים 500 / 700 / 900 (כותרות) · Heebo במשקלים 300 עד 900 (גוף) · Google Fonts עם `display=swap` |
 | שרתים חיצוניים | `fonts.googleapis.com`, `fonts.gstatic.com` בלבד |
 | תלויות / build | אין / אין |
-| GIF תצוגה | `docs/apos4-pods.gif` · ‏28 פריימים · 720 × 410 |
+| GIF תצוגה | `docs/apos4-pods.gif` · ‏29 פריימים · 720 × 450, פריים מלא עם הכותרת |
 
 ## החלטות הנדסיות
 

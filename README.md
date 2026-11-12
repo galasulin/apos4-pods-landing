@@ -44,8 +44,13 @@
 <table>
   <tr>
     <td width="33%"><a href="docs/desktop-hero.png"><img src="docs/desktop-hero.png" width="100%" alt="Desktop hero"></a><br><sub><b>Hero</b> · floating shoe, CTA, trust pills</sub></td>
-    <td width="33%"><a href="docs/stage-apart.png"><img src="docs/stage-apart.png" width="100%" alt="Pods apart"></a><br><sub><b>Stage · apart</b> · rails and calibration matrix exposed</sub></td>
+    <td width="33%"><a href="docs/stage-apart.png"><img src="docs/stage-apart.png" width="100%" alt="Pods apart"></a><br><sub><b>Stage · apart</b> · phase 03, pods fully off, rails and calibration matrix exposed</sub></td>
     <td width="33%" align="center"><a href="docs/mobile-stage.png"><img src="docs/mobile-stage.png" width="220" alt="Mobile stage"></a><br><sub><b>Mobile</b> · sole above, phase text below</sub></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="docs/stage-whole.png"><img src="docs/stage-whole.png" width="100%" alt="Pods attached"></a><br><sub><b>Stage · attached</b> · phase 01, all four pods on the sole</sub></td>
+    <td width="33%"><a href="docs/calibration-picker.png"><img src="docs/calibration-picker.png" width="100%" alt="Calibration picker"></a><br><sub><b>Calibration picker</b> · six real configurations, "medial knee" selected</sub></td>
+    <td width="33%"></td>
   </tr>
 </table>
 
@@ -134,7 +139,7 @@ flowchart LR
 | Fonts | Frank Ruhl Libre 500 / 700 / 900 (display) · Heebo 300 to 900 (body) · Google Fonts with `display=swap` |
 | External hosts | `fonts.googleapis.com`, `fonts.gstatic.com` only |
 | Dependencies / build | none / none |
-| Preview GIF | `docs/apos4-pods.gif` · 28 frames · 720 × 410 |
+| Preview GIF | `docs/apos4-pods.gif` · 29 frames · 720 × 450, full frame with the header |
 
 ## Engineering decisions
 
