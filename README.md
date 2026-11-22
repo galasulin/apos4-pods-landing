@@ -26,7 +26,7 @@
 
 </div>
 
-> **Portfolio copy.** A sanitized, static copy of a landing page I designed and built for the clinic network. Tracking was never added to this version; the lead form only shows a demo message, phone and WhatsApp numbers are replaced with a non-dialable `*0000`, links to the company site are disabled, and patient names in the testimonials are reduced to initials.
+> **Portfolio copy.** A sanitized, static copy of a landing page I designed and built for the clinic network. Tracking was never added to this version; the lead form only shows a demo message, phone and WhatsApp numbers are replaced with a non-dialable `*0000`, links to the company site are disabled, and patient names in the testimonials are replaced with invented names.
 
 ## At a glance
 
@@ -181,7 +181,7 @@ apos4-pods-landing/
 | Lead form | Validates, then shows a demo message; nothing is sent |
 | Phone and WhatsApp numbers | Replaced with a non-dialable `*0000` that shows a demo toast |
 | Links to the company site | Disabled (`data-demo`), they show a demo toast |
-| Patient names in testimonials | Reduced to initials |
+| Patient names in testimonials | Replaced with invented names |
 | Search | Page marked `noindex`; canonical points at this GitHub Pages copy |
 
 AposTherapy and APOS names, logos and product photos belong to their owner and are shown for portfolio purposes. See [LICENSE](LICENSE).
